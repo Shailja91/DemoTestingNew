@@ -13,4 +13,8 @@ public class Calculator {
 	 {
 		 return i/j;
 	 }
+	 public int subtract(int i, int j)
+	 {
+		 return i-j;
+	 }
 }
